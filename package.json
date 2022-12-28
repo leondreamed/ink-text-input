@@ -1,5 +1,5 @@
 {
-	"name": "ink-text-input",
+	"name": "@leondreamed/ink-text-input",
 	"version": "4.0.3",
 	"description": "Text input component for Ink",
 	"license": "MIT",
