@@ -116,6 +116,7 @@ const TextInput: FC<Props> = ({
 
 	useInput(
 		(input, key) => {
+			if (key.meta) return;
 			if (
 				key.upArrow ||
 				key.downArrow ||
